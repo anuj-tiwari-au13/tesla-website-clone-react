@@ -1,4 +1,5 @@
 ## BUILDING A TESLA CLONE WEBSITE WITH REACT JS , REDUX AND STYLED COMPONENETS
+url - https://tesla-clone-react.herokuapp.com/
 
 # ANIMATIONS in the app is due to ---> React Reveal -----> yarn add react-reveal
 
